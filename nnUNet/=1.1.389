@@ -1,0 +1,10 @@
+Collecting pyright
+  Downloading pyright-1.1.399-py3-none-any.whl.metadata (6.6 kB)
+Collecting nodeenv>=1.6.0 (from pyright)
+  Using cached nodeenv-1.9.1-py2.py3-none-any.whl.metadata (21 kB)
+Requirement already satisfied: typing-extensions>=4.1 in /home/yl_li/.local/lib/python3.9/site-packages (from pyright) (4.12.2)
+Downloading pyright-1.1.399-py3-none-any.whl (5.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.6/5.6 MB 71.2 MB/s eta 0:00:00
+Using cached nodeenv-1.9.1-py2.py3-none-any.whl (22 kB)
+Installing collected packages: nodeenv, pyright
+Successfully installed nodeenv-1.9.1 pyright-1.1.399

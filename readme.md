@@ -1,6 +1,7 @@
 # 🩺 **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation**
 
-_Work in progress._ 
+[[arXiv]](https://arxiv.org/abs/2509.02379)  
+_Work in progress._
 
 Official implementation of MedDINOv3. 
 
@@ -49,6 +50,13 @@ pip install -e .
 cd nnUNet/nnunetv2/training/nnUNetTrainer/dinov3/dinov3/eval/segmentation/models/utils/ops
 pip install .
 ```
+
+## Inference 
+A minimal inference code is provided in 
+```
+inference/demo.ipynb
+```
+
 ## 🦖 Finetuning DINOv3 within nnUNet
 
 ###  1. 📂 Dataset Preparation

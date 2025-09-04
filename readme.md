@@ -1,6 +1,6 @@
 # 🩺 **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation**
 
-[[arXiv]](https://arxiv.org/abs/2509.02379) | [[Hugging Face Model Page]](https://huggingface.co/your-username/MedDINOv3)  
+[[arXiv]](https://arxiv.org/abs/2509.02379) | [[Hugging Face Model Page]](https://huggingface.co/ricklisz123/MedDINOv3-ViTB-16-CT-3M)  
 _Work in progress._
 
 Official implementation of MedDINOv3. 
@@ -21,7 +21,7 @@ marked with a red dot and all other patches. Input image at 2048 × 2048. </em>
 ### 🔹 MedDINOv3 pretrained on CT-3M
 | Backbone | Pretraining Dataset   | Download | Hugging Face |
 |----------|-----------------------|----------|--------------|
-| ViT-B/16 | CT-3M (3.87M slices) | [[Google Drive]](https://drive.google.com/file/d/1_MgctUnIIFcQJCVOhkcs84qq92hlqXVA/view?usp=sharing) | [[HF Model]](https://huggingface.co/your-username/MedDINOv3) |
+| ViT-B/16 | CT-3M (3.87M slices) | [[Google Drive]](https://drive.google.com/file/d/1_MgctUnIIFcQJCVOhkcs84qq92hlqXVA/view?usp=sharing) | [[HF Model]](https://huggingface.co/ricklisz123/MedDINOv3-ViTB-16-CT-3M) |
 
 ---
 ## ⚙️ Installation

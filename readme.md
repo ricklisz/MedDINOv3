@@ -1,6 +1,6 @@
 # 🩺 **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation**
 
-[[arXiv]](https://arxiv.org/abs/2509.02379)  
+[[arXiv]](https://arxiv.org/abs/2509.02379) | [[Hugging Face Model Page]](https://huggingface.co/your-username/MedDINOv3)  
 _Work in progress._
 
 Official implementation of MedDINOv3. 
@@ -19,9 +19,9 @@ marked with a red dot and all other patches. Input image at 2048 × 2048. </em>
 ## 📦 Pretrained Models
 
 ### 🔹 MedDINOv3 pretrained on CT-3M
- | Backbone | Pretraining Dataset   | Download |
-|----------|-----------------------|----------|
- | ViT-B/16 | CT-3M (3.87M slices) | [[link](https://drive.google.com/file/d/1_MgctUnIIFcQJCVOhkcs84qq92hlqXVA/view?usp=sharing)] |
+| Backbone | Pretraining Dataset   | Download | Hugging Face |
+|----------|-----------------------|----------|--------------|
+| ViT-B/16 | CT-3M (3.87M slices) | [[Google Drive]](https://drive.google.com/file/d/1_MgctUnIIFcQJCVOhkcs84qq92hlqXVA/view?usp=sharing) | [[HF Model]](https://huggingface.co/your-username/MedDINOv3) |
 
 ---
 ## ⚙️ Installation
@@ -178,9 +178,9 @@ If you find this work useful, please cite:
 @article{li2025meddinov3,
   title={MedDINOv3: How to Adapt Vision Foundation Models for Medical Image Segmentation?},
   author={Li, Yuheng and Wu, Yizhou and Lai, Yuxiang and Hu, Mingzhe and Yang, Xiaofeng},
-  journal={arXiv preprint arXiv:2509.xxxxx},
+  journal={arXiv preprint arXiv:2509.02379},
   year={2025},
-  url={https://arxiv.org/abs/2509.xxxxx}
+  url={https://arxiv.org/abs/2509.02379}
 }
 ```
 ## 🙏 Acknowledgements

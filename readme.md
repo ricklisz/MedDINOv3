@@ -3,6 +3,8 @@
 [[arXiv]](https://arxiv.org/abs/2509.02379) | [[Hugging Face Model Page]](https://huggingface.co/ricklisz123/MedDINOv3-ViTB-16-CT-3M)  
 _Work in progress._
 
+> **Update:** Our complete CT foundation model work, **FlexiCT**, is now available at [ricklisz.github.io/flexict.github.io](https://ricklisz.github.io/flexict.github.io/) with code, model checkpoints, and project materials released.
+
 Official implementation of MedDINOv3. 
 
 MedDINOv3 is a simple yet powerful framework that adapts DINOv3, a state-of-the-art vision foundation model, to the medical imaging domain. By combining a plain ViT backbone with multi-scale token aggregation and domain-adaptive pretraining on CT-3M (3.87M slices), MedDINOv3 achieves state-of-the-art or comparable performance on four diverse segmentation benchmarks (AMOS22, BTCV, KiTS23, LiTS).

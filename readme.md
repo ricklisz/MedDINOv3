@@ -1,9 +1,15 @@
 # 🩺 **MedDINOv3: Adapting Vision Foundation Models for Medical Image Segmentation**
 
+## Complete CT foundation model release: FlexiCT
+
+**FlexiCT** is our complete CT foundation model family, extending this line of work beyond segmentation toward universal CT representations for segmentation, registration, classification, retrieval, and vision-language understanding.
+
+**Project page, code, checkpoints, and models:** [ricklisz.github.io/flexict.github.io](https://ricklisz.github.io/flexict.github.io/)
+
+---
+
 [[arXiv]](https://arxiv.org/abs/2509.02379) | [[Hugging Face Model Page]](https://huggingface.co/ricklisz123/MedDINOv3-ViTB-16-CT-3M)  
 _Work in progress._
-
-> **Update:** Our complete CT foundation model work, **FlexiCT**, is now available at [ricklisz.github.io/flexict.github.io](https://ricklisz.github.io/flexict.github.io/) with code, model checkpoints, and project materials released.
 
 Official implementation of MedDINOv3. 
 
